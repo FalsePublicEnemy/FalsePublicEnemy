@@ -14,9 +14,15 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360px"/>
 
 ### Recent achievements 🏆
-* 🥉 **[Corezoid Junior Developer]
-* 🥈 **[Corezoid Middle Developer]
-* 🥈 **[Python Strong Junior Developer]
+* 🥉 **Corezoid Junior Developer**
+* 🥈 **Corezoid Middle Developer**
+* 🥈 **Python Strong Junior Developer**
+
+```python
+def life():
+    while True:
+      routine.coding(eat,sleep,learn,repeat)
+```
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
