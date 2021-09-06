@@ -11,6 +11,8 @@
 * 🎓 Student of Kyiv National University Taras Shevchenko (2018-2022)
 * 👨‍💻 Strong Junior Python developer working at **Handy.ai, D2 Digital(https://handy.ai/)**
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360px"/>
+
 ### Recent achievements 🏆
 * 🥉 **[Corezoid Junior Developer]
 * 🥈 **[Corezoid Middle Developer]
