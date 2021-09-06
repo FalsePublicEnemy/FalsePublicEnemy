@@ -16,3 +16,6 @@
 * 🥈 **[Corezoid Middle Developer]
 * 🥈 **[Python Strong Junior Developer]
 
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+
