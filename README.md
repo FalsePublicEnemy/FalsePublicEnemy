@@ -1,19 +1,18 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Karim</h2>
+<h3 align="center">A student, software engineer and life-long learner</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/JavaScript/?username=<USERNAME>&theme=<THEME_NAME>" />
+<a href="https://www.linkedin.com/in/karim-nassar-9192201b9/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+  <a href="https://t.me/awesome_feeling">
+  <img align="left" alt="Karim's Telegram" width="22px" src="icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/falsepublicenemy" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
+<br />
+### I am...
+* 🎓 Student of Kyiv National University Taras Shevchenko (2018-2022)
+* 👨‍💻 Strong Junior Python developer working at **Handy.ai, D2 Digital(https://handy.ai/)**
 
+### Recent achievements 🏆
+* 🥉 **[Corezoid Junior Developer]
+* 🥈 **[Corezoid Middle Developer]
+* 🥈 **[Python Strong Junior Developer]
 
-<!--
-**FalsePublicEnemy/FalsePublicEnemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
