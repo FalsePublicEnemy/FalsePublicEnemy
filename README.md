@@ -9,7 +9,7 @@
 <br />
 ### I am...
 * 🎓 Student of Kyiv National University Taras Shevchenko (2018-2022)
-* 👨‍💻 Strong Junior Python developer working at       <a href="https://www.handy.ai" target="_blank"><img align="center" alt="Handy.ai" height ="20px" src="https://static.tildacdn.com/tild3864-3038-4631-b133-386666336666/Ellipse_59.svg"></a> **Handy.ai** 
+* 👨‍💻 Strong Junior Python developer working at **Greenely** 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360px"/>
 
