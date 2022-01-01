@@ -20,6 +20,7 @@
 * 🥈 **Python Strong Junior Developer**
 
 ```python
+
 @classmethod
 def life(cls):
     while True:
