@@ -8,10 +8,8 @@
 <a href="https://instagram.com/falsepublicenemy" target="blank"><img align="left" src="instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 Student of Kyiv National University Taras Shevchenko (2018-2022)
-* 👨‍💻 Python Dev
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px"/>
+* 🎓 Student of Kyiv National University Taras Shevchenko (2019-2023)
+* 👨‍💻 Middle Software Engineer
 
 ```python
 
@@ -20,6 +18,9 @@ def life(cls):
     while True:
       routine.coding(cls.eat, cls.sleep, cls.learn)
 ```
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px"/>
+
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
