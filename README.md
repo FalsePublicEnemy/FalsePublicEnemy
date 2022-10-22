@@ -9,7 +9,7 @@
 <br />
 ### I am...
 * 🎓 Student of Kyiv National University Taras Shevchenko (2019-2023)
-* 👨‍💻 Middle Software Engineer
+* 👨‍💻 Senior Software Engineer
 
 ```python
 
