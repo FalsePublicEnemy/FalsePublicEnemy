@@ -8,7 +8,6 @@
 <a href="https://instagram.com/falsepublicenemy" target="blank"><img align="left" src="instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 Student of Kyiv National University Taras Shevchenko (2019-2023)
 * 👨‍💻 Senior Software Engineer
 
 ```python
