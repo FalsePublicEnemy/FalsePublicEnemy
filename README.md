@@ -1,11 +1,8 @@
 <h2 align="center">Hi 👋, I'm Karim</h2>
 <h3 align="center">A student, software engineer and life-long learner</h3>
 
-<a href="https://t.me/awesome_feeling"><img align="left" alt="Karim's Telegram" width="22px" src="telegram.svg" /></a>
-<a href="https://instagram.com/falsepublicenemy" target="blank"><img align="left" src="instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
-### I am...
-* 👨‍💻 Senior Software Engineer
+### I am 👨‍💻 Senior Software Engineer
 
 ```python
 
